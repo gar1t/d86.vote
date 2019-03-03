@@ -60,8 +60,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0665578"
-     inkscape:cx="301.78579"
-     inkscape:cy="375.32806"
+     inkscape:cx="-115.09023"
+     inkscape:cy="702.5183"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -341,7 +341,7 @@
        id="rect5009"
        width="337.22336"
        height="191.25"
-       x="202.42542"
+       x="202.44095"
        y="589.3811"
        inkscape:export-xdpi="300.20505"
        inkscape:export-ydpi="300.20505" />
@@ -349,7 +349,7 @@
        sodipodi:linespacing="125%"
        id="text5011"
        y="745.33777"
-       x="267.49533"
+       x="267.50949"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:67.64022827px;line-height:125%;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        transform="scale(1.0989224,0.90998237)"
@@ -357,12 +357,12 @@
        inkscape:export-ydpi="300.20505"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.64022827px;line-height:125%;font-family:Steelfish;-inkscape-font-specification:'Steelfish, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          y="745.33777"
-         x="267.49533"
+         x="267.50949"
          id="tspan5013"
          sodipodi:role="line">d86.vote</tspan></text>
     <rect
        y="730.9408"
-       x="202.42542"
+       x="202.44095"
        height="60.802002"
        width="337.22336"
        id="rect5029"
@@ -370,7 +370,7 @@
        inkscape:export-xdpi="300.20505"
        inkscape:export-ydpi="300.20505" />
     <g
-       transform="matrix(0.52542375,0,0,0.52542375,173.86045,311.39141)"
+       transform="matrix(0.52542375,0,0,0.52542375,173.87599,311.39141)"
        id="g5015"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.95000076px;line-height:125%;font-family:'Alte DIN 1451 Mittelschrift';-inkscape-font-specification:'Alte DIN 1451 Mittelschrift, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-xdpi="300.20505"
@@ -632,34 +632,36 @@
          id="tspan4402"
          sodipodi:role="line">d86.vote</tspan></text>
     <text
-       sodipodi:linespacing="110%"
+       sodipodi:linespacing="98.000002%"
        id="text4404"
-       y="245.52438"
-       x="-162.64667"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.77750015px;line-height:110.00000238%;font-family:'Alte DIN 1451 Mittelschrift';-inkscape-font-specification:'Alte DIN 1451 Mittelschrift, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="244.99405"
+       x="-162.59029"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.62935638px;line-height:98.00000191%;font-family:'Alte DIN 1451 Mittelschrift';-inkscape-font-specification:'Alte DIN 1451 Mittelschrift, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="299.85355"
        inkscape:export-ydpi="299.85355"><tspan
-         y="245.52438"
-         x="-162.64667"
-         id="tspan4406"
-         sodipodi:role="line">KNOW</tspan><tspan
-         y="262.87964"
-         x="-162.64667"
+         y="244.99405"
+         x="-162.59029"
          sodipodi:role="line"
-         id="tspan5514">THE FACTS</tspan></text>
+         id="tspan4399"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.62935638px;line-height:98.00000191%;font-family:'Alte DIN 1451 Mittelschrift';-inkscape-font-specification:'Alte DIN 1451 Mittelschrift, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">CAST</tspan><tspan
+         y="263.62341"
+         x="-162.59029"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.62935638px;line-height:98.00000191%;font-family:'Alte DIN 1451 Mittelschrift';-inkscape-font-specification:'Alte DIN 1451 Mittelschrift, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="tspan4409">YOUR VOTE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.0365448px;line-height:125%;font-family:'Alte DIN 1451 Mittelschrift';-inkscape-font-specification:'Alte DIN 1451 Mittelschrift, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="371.05554"
-       y="705.21283"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.63764191px;line-height:125%;font-family:'Alte DIN 1451 Mittelschrift';-inkscape-font-specification:'Alte DIN 1451 Mittelschrift, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="370.78558"
+       y="705.42651"
        id="text4433"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="300.20505"
        inkscape:export-ydpi="300.20505"><tspan
          sodipodi:role="line"
          id="tspan4435"
-         x="371.05554"
-         y="705.21283">KNOW THE FACTS</tspan></text>
+         x="370.78558"
+         y="705.42651">CAST YOUR VOTE</tspan></text>
   </g>
 </svg>
